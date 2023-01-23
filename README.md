@@ -112,9 +112,9 @@ Corpo em `JSON`
 Clone o repositório e instale as dependências.
 
 ```bash
-git clone https://github.com/mateusabelli/nlw-setup
+git clone https://github.com/WillieSoares21/NLW-Setup_Ignite
 
-cd nlw-setup
+cd NLW-Setup_Ignite
 
 pnpm install
 ```
